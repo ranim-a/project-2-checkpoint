@@ -1,0 +1,34 @@
+body{
+    background-image: url(./backcontact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+a{
+    color: antiquewhite;
+}
+h1{
+    text-shadow: 4px 4px 4px rgb(0, 0, 0);
+    text-align: center;
+    color: wheat;
+    font-size: xxx-large;
+    background-color: rgba(0, 0, 0, 0.379);
+}
+legend{
+    font-size: xx-large;
+    color: rgb(41, 73, 122);
+    background-color: rgba(245, 245, 220, 0.419);
+}
+input{
+    font-size: x-large;
+    width: 1300px;    
+}
+button{
+    font-size:x-large;
+    color: rgb(135, 124, 124);
+    background-color: rgb(74, 74, 102);
+    border-radius: 20%;
+
+}
+

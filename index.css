@@ -1,0 +1,49 @@
+body{
+    background-image: url(./background.png);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    
+    background-color:rgb(245,245,220,0.5);
+    color:rgb(62, 62, 60,0.8);
+    text-align: center;
+    font-size: xx-large;
+    font-style: bold;
+    letter-spacing: 7px;
+}
+p{
+    background-color: rgba(208, 204, 153, 0.6);
+    font-style: bold;
+    color: rgb(56, 77, 62);
+    font-size: larger;
+
+}
+ul{
+    display: flex;
+    gap: 240px;
+}
+strong{
+    background-color: rgba(208, 204, 153, 0.6);
+    font-style: bold;
+    font-size: x-large;
+    text-align: center;
+    color: rgb(98, 121, 99);
+    text-shadow: 1px 1px 1px black;
+}
+a{
+    color: azure;
+    font-size: x-large;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    text-shadow: 4px 4px 4px rgb(0, 0, 0);
+    text-align: center;
+    color: wheat;
+    font-size: xxx-large;
+    background-color: rgba(0, 0, 0, 0.379);
+    
+}
